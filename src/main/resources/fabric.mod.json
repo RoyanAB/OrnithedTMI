@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "tmi",
+	"version": "${version}",
+	"name": "TooManyItems",
+	"description": "Create & customize items, including those not available even in creative mode. Save and load entire inventories. Switch game modes and control time, weather, and more.",
+	"authors": [
+		"Marglyph"
+	],
+	"contact": {
+		"homepage": "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272385-toomanyitems-the-inventory-editor-and-more-1-8"
+	},
+	"license": "ARR",
+	"icon": "assets/tmi/icon.png",
+	"environment": "*",
+	"entrypoints": {
+	},
+	"mixins": [
+    "tmi.mixins.json"
+	],
+  "accessWidener": "tmi.accesswidener",
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "1.0.0-beta.9.0.6"
+	}
+}

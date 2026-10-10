@@ -1,0 +1,5 @@
+accessWidener v1 named
+accessible field net/minecraft/client/Minecraft INSTANCE Lnet/minecraft/client/Minecraft;
+accessible method net/minecraft/client/gui/GuiElement fillGradient (IIIIII)V
+accessible field net/minecraft/client/gui/screen/Screen textRenderer Lnet/minecraft/client/render/TextRenderer;
+accessible field net/minecraft/client/gui/screen/Screen minecraft Lnet/minecraft/client/Minecraft;
